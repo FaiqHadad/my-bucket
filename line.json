@@ -5,10 +5,10 @@
   "installer": {
     "file": "LineInst.exe"
     },
-  "bin": "Line.exe"
+  "bin": "line.exe"
   "shortcuts": [
         [
-            "Line.exe",
+            "line.exe",
             "line"
         ]
     ],
