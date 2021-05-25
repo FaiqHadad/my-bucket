@@ -1,0 +1,5 @@
+{
+  version: "1.0",
+  url: "https://desktop.line-scdn.net/win/new/LineInst.exe",
+  bin: "LineInst.exe"
+}
