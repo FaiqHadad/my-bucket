@@ -1,9 +1,11 @@
 {
-  "version": "1.0",
+  "version": "6.7.3",
   "url": "https://desktop.line-scdn.net/win/new/LineInst.exe",
   "installer": 
     {
-    "file": "LineInst.exe"
+    "file": "LineInst.exe",
+     "script": [
+       
     },
   "bin": "line.exe",
   "shortcuts": 
