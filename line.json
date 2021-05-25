@@ -4,15 +4,20 @@
   "installer": 
     {
     "file": "LineInst.exe",
-     "script": [
+    "args": "/S"
        
     },
   "bin": "line.exe",
   "shortcuts": 
     [
         [
-            "line.exe",
+            "Line Launcher.exe",
             "line"
         ]
-    ]
+    ],
+  "uninstaller":
+    [
+            "Line Uninstaller.exe"
+            "args": "/S"
+    ]      
 }
