@@ -7,18 +7,18 @@
     "args": "/S"
        
     },
-  "bin": "line.exe",
+  "bin": "Line launcher.exe",
   "shortcuts": 
     [
         [
-            "Line Launcher.exe",
+            "Line launcher.exe",
             "line"
         ]
     ],
   "uninstaller":
     [
       [
-            "Line Uninstaller.exe",
+            "file": "Line Uninstaller.exe",
             "args": "/S"
         ]
     ]      
