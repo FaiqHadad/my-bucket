@@ -5,16 +5,16 @@
     {
     "file": "LineInst.exe"
     },
-  "bin": "Line launcher.exe",
+  "bin": "LineLauncher.exe",
   "shortcuts": 
     [
         [
-            "Line launcher.exe",
+            "LineLauncher.exe",
             "line"
         ]
     ],
   "uninstaller":
     {
-            "file": "uninstaller.exe"
+            "file": "LineUnInst.exe"
     }      
 }
