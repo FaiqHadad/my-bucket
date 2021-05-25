@@ -1,7 +1,6 @@
 {
   "version": "1.0",
   "url": "https://desktop.line-scdn.net/win/new/LineInst.exe",
-  "innosetup": true,
   "installer": 
     {
     "file": "LineInst.exe"
