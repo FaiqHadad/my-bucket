@@ -4,6 +4,7 @@
   "installer": 
     {
     "file": "LineInst.exe"
+    "args": "/S"
     },
   "bin": "Line launcher.exe",
   "shortcuts": 
@@ -16,5 +17,6 @@
   "uninstaller":
     {
             "file": "uninstaller.exe"
+            "args": "/S"
     }      
 }
