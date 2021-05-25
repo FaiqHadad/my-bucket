@@ -14,7 +14,7 @@
         ]
     ],
   "uninstaller":
-    [
+    {
             "file": "uninstaller.exe"
-    ]      
+    }      
 }
