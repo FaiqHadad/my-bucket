@@ -3,7 +3,7 @@
   "url": "https://desktop.line-scdn.net/win/new/LineInst.exe",
   "installer": 
     {
-    "file": "LineInst.exe"
+    "file": "LineInst.exe",
     "args": "/S"
     },
   "bin": "Line launcher.exe",
@@ -16,7 +16,7 @@
     ],
   "uninstaller":
     {
-            "file": "uninstaller.exe"
+            "file": "uninstaller.exe",
             "args": "/S"
     }      
 }
