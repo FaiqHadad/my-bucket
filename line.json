@@ -17,7 +17,7 @@
     ],
   "uninstaller":
     [
-            "Line Uninstaller.exe"
+            "Line Uninstaller.exe",
             "args": "/S"
     ]      
 }
