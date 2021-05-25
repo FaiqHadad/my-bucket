@@ -1,5 +1,15 @@
 {
-  version: "1.0",
-  url: "https://desktop.line-scdn.net/win/new/LineInst.exe",
-  bin: "LineInst.exe"
+  "version": "1.0",
+  "url": "https://desktop.line-scdn.net/win/new/LineInst.exe",
+  "innosetup": true
+  "installer": {
+    "file": "LineInst.exe"
+    },
+  "bin": "Line.exe"
+  "shortcuts": [
+        [
+            "Line.exe",
+            "line"
+        ]
+    ],
 }
